@@ -1,2 +1,2 @@
 # Kohli-Media-Services
-Task of my internship period using Frontend Web-D
+https://sparsh-99.github.io/Kohli-Media-Services/
