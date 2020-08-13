@@ -378,7 +378,7 @@ body.building_version .section-title h3 {
 #bottom {
     font-size: 0.857em;
     background-color: #111;
-    padding: 19px 0;
+    padding: 19px 0 2px 0;
     color: #b7b7b7;
     margin-top: 60px;
 }
